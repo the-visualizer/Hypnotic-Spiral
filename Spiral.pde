@@ -9,7 +9,7 @@ void setup()           /* Runs only once */
 { 
   size(500,500);       /* Sets the size of the output screen */
   imageMode(CENTER); 
-  spiral = loadImage("spiral.png"); /* Specifies the image file to be used */
+  spiral = loadImage("Spiral.png"); /* Specifies the image file to be used */
   angle = 0.0;
   a = 0;
   flag = 0;
